@@ -1,6 +1,12 @@
 # Cloud-based Semantic Risk Perception
 
-This repository contains the reproducible data, training, inference, and evaluation pipeline for cloud-based semantic risk perception with Qwen2.5-VL. The code is organized in the same order as the method in a paper:
+This repository contains the reproducible data, training, inference, and evaluation pipeline for cloud-based semantic risk perception with Qwen2.5-VL.
+
+[![Cloud-based semantic risk perception workflow: data preparation, Qwen2.5-VL LoRA fine-tuning, inference, and evaluation](docs/assets/project-overview.png)](docs/assets/project-overview.png)
+
+*Project overview. Click the image to view it at full resolution.*
+
+The code is organized in the same order as the method in a paper:
 
 ```text
 raw ODA/UAV data
