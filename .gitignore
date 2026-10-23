@@ -1,0 +1,31 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.idea/
+.vscode/
+
+# Private data and downloaded model weights
+data/
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Reproducibility artifacts and local experiment outputs
+artifacts/
+logs/
+output/
+prepared/
+wandb/
+mlruns/
+
+# Generated prediction files
+*_predictions.jsonl
+*_with_state.jsonl
+
+.DS_Store
+Thumbs.db

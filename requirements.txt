@@ -1,0 +1,6 @@
+# Install torch and torch_npu from the Ascend/CANN-compatible index first.
+# Do not install a generic CUDA PyTorch wheel on this aarch64 + Ascend host.
+ms-swift>=3.7
+qwen-vl-utils
+# qwen-vl-utils imports torchvision; use the CPU wheel paired with torch 2.12.0.
+torchvision==0.27.0+cpu

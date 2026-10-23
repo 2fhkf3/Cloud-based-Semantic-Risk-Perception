@@ -1,0 +1,11 @@
+name: shj
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - "pip>=24"
+      - "setuptools>=68,<82"
+      - "wheel"
