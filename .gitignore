@@ -9,11 +9,16 @@ __pycache__/
 
 # Private data and downloaded model weights
 data/
-models/
+models/*
 *.safetensors
 *.bin
 *.pt
 *.pth
+
+# Public navigation checkpoint explicitly approved for distribution.
+!models/navigation/
+models/navigation/*
+!models/navigation/IQN_best_gru_dagger_v3.pth
 
 # Reproducibility artifacts and local experiment outputs
 artifacts/

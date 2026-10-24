@@ -1,0 +1,6 @@
+# Install the accelerator-compatible torch/torchvision pair FIRST.
+# Existing Ascend environments must keep their matched torch/torch_npu/CANN stack.
+Pillow>=10
+transformers
+peft
+qwen-vl-utils

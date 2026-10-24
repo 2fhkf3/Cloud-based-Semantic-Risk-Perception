@@ -1,0 +1,4 @@
+{"observation":{"session_id":"format-demo-001","sequence":1,"timestamp_s":0.0,"position_m":[0.0,-3.0],"goal_m":[0.0,3.0],"velocity_mps":[0.0,0.0],"ranges_m":[2.0,3.0,4.0,1.0],"yaw_rad":0.0},"previous_executed_action_id":null}
+{"observation":{"session_id":"format-demo-001","sequence":2,"timestamp_s":0.1,"position_m":[0.0,-3.0],"goal_m":[0.0,3.0],"velocity_mps":[0.0,0.0],"ranges_m":[2.0,3.0,4.0,1.0],"yaw_rad":0.0},"previous_executed_action_id":null}
+{"observation":{"session_id":"format-demo-001","sequence":3,"timestamp_s":0.2,"position_m":[0.0,-3.0],"goal_m":[0.0,3.0],"velocity_mps":[0.0,0.0],"ranges_m":[2.0,3.0,4.0,1.0],"yaw_rad":0.0},"previous_executed_action_id":null}
+{"observation":{"session_id":"format-demo-001","sequence":4,"timestamp_s":0.3,"position_m":[0.0,-3.0],"goal_m":[0.0,3.0],"velocity_mps":[0.0,0.0],"ranges_m":[2.0,3.0,4.0,1.0],"yaw_rad":0.0},"previous_executed_action_id":null}

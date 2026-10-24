@@ -1,0 +1,3 @@
+# Local navigation only. Install a platform-compatible PyTorch wheel for CPU/CUDA.
+numpy>=1.24
+torch>=2.1
